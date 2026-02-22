@@ -1,0 +1,5 @@
+langchain>=0.1.14
+langchain-community>=0.0.26
+tqdm
+ollama
+chromadb>=0.4.22
